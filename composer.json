@@ -1,0 +1,10 @@
+{
+    "name": "richardm-stripe/php-test",
+    "authors": [
+        {
+            "name": "Richard Marmorstein",
+            "email": "richardm@stripe.com"
+        }
+    ],
+    "require": {}
+}
