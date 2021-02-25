@@ -1,3 +1,3 @@
 <?php
 
-echo "Initial content"
+echo "Not malicious"
